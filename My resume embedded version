@@ -1,0 +1,81 @@
+
+                                                                                             Email: art.zou.nu@gmail.com
+
+ART ZOU                                                                                               Cell: 224-307-4790
+                                                                          Address: 1023S 10th Street, San Jose, CA, 95112
+EDUCATION
+Northwestern University -Evanston, IL                                                          M.S. Computer Science
+GPA: 3.692                                                                             September 2013 - June 2015
+Xi'an Jiaotong University -Xi'an, China                                                  B.S. Information Engineering
+GPA: 85.02/100                                                                          September 2009 - July 2013
+
+SKILLS
+
+ * Programming Language: Proficient in C/C++, Java, Ruby, SQL. Familiar with assembly, Basic, Rspec.
+
+ * Computer Engineering: Proficient in analog circuit analysis, design and soldering, micro-controller programming,
+
+   digital signal processing, operating system, communication protocol.
+
+PROFESSIONAL EXPERIENCE
+Rehabilitation Institute of Chicago                                                                   June - Sept. 2014
+Software Engineer Intern(C++/Web)
+
+  * Built a fully integrated system for wireless Segway control and automation in C++ based on PIC32 MCU.
+
+  * Established wireless connection between Segway and PC using Microchip WiFi API.
+
+  * Implemented a user interface (Html/Javascript) and a CLI (Matlab) for interacting with Segway through WiFi.
+
+  * Developed drivers in C++ for gyro and proximity sensors on SPI and I2C serial protocol.
+
+  * Developed driver for Segway Motor on UART protocol.
+
+  * Solved balancing and obstacle avoiding problem by using algorithm of PID control.
+
+  * Helped soldering throw-hole and surface amount PCB with bake technique.
+
+  * Helped trouble shooting with skill in oscilloscope.
+
+PROJECT EXPERIENCE
+System Programming Experience
+    Smart Library System Design(C++/ SQL/Wireless)
+
+    *   Built a Smart Library System to automate the process of book management by using RFID technology.
+
+    *   Programmed a driver of TRF7960ARFID reader for wireless book detection based on ISO15693 standard.
+
+    *   Programmed the firmware of MSP430 MCU for system initialization and info exchange.
+
+    *   Implemented an anti-collision book detection technique using inventory checking algorithm in C++.
+
+    *   Built a 50*50 cm2 square antenna and corresponding power amplifier.
+
+    *   Designed and developed library database using MySQL for book and student information management.
+    Sound Locating System(C)
+
+    *   Built a Small Sound Locating System to simulate the process of primitive global positioning system.
+
+    *   Programmed a driver for crystal screen based on MSP430 MCU for displaying position on I2C protocol.
+
+    *   Programmed an algorithm for positioning based on info from phase detector.
+Java Programming Experience
+    Sudoku Game Development(Java)
+
+    *   Designed and developed a fully functional desktop Sudoku game from scratch in Java.
+
+    *   Implemented a graphic user interface with the Swing library.
+
+    *   Implemented hint, difficulty choice and other features by dynamic programming technique.
+    Robot Car Project(Java)
+
+    *   Created a self-control automatic driving system for the robot car in PBasic.
+
+    *   Simulated a driverless car path-planning behavior by implementing the modified A* pathfinding algorithm in
+        Java, making the robot car run the shortest path to the destination while avoiding obstacles.
+    Senior Software Project(Java/Matlab)
+
+    *   Implemented multi-layer seismic fault detecting function by using Dave-Hale algorithm in Java.
+
+    *   Implemented 3D full scope seismic fault shifting and flatting based on graphic technique.
+
